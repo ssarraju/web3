@@ -21,3 +21,5 @@
 - [Blockchain Testing](https://www.youtube.com/watch?v=1WZdH3kD1d8)
 
 - [Ganache | Overview | Documentation | Truffle Suite](https://www.trufflesuite.com/docs/ganache/overview)
+
+- [Web3 — A vision for a decentralized web](https://blog.cloudflare.com/what-is-web3/)
